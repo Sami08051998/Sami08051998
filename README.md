@@ -1,4 +1,4 @@
-<img align='center' alt='Banner logo' width='100%' src = "[https://github.com/bharat-ghadi/bharat-ghadi/blob/main/BHARAT%20GHADIGAONKAR%20(1).jpg](https://github.com/Sami08051998/Sami08051998/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner_page-0001.jpg)">
+<img align='center' alt='Banner logo' width='100%' src = "https://github.com/Sami08051998/Sami08051998/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner_page-0001.jpg">
 
 <h1 align="center">Hi 👋, I'm Samruddhi Salvi</h1>
 <h3 align="center">A passionate python developer from India</h3>
